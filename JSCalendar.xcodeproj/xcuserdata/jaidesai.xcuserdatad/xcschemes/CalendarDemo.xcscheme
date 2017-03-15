@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8C2F0F911E6FEC2500A8A008"
-               BuildableName = "CalendarDemo.app"
-               BlueprintName = "CalendarDemo"
-               ReferencedContainer = "container:CalendarDemo.xcodeproj">
+               BuildableName = "JSCalendar.app"
+               BlueprintName = "JSCalendar"
+               ReferencedContainer = "container:JSCalendar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8C2F0FAD1E6FEC2600A8A008"
-               BuildableName = "CalendarDemoTests.xctest"
-               BlueprintName = "CalendarDemoTests"
-               ReferencedContainer = "container:CalendarDemo.xcodeproj">
+               BuildableName = "JSCalendar.xctest"
+               BlueprintName = "JSCalendarTests"
+               ReferencedContainer = "container:JSCalendar.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8C2F0FB81E6FEC2600A8A008"
-               BuildableName = "CalendarDemoUITests.xctest"
-               BlueprintName = "CalendarDemoUITests"
-               ReferencedContainer = "container:CalendarDemo.xcodeproj">
+               BuildableName = "JSCalendar.xctest"
+               BlueprintName = "JSCalendarUITests"
+               ReferencedContainer = "container:JSCalendar.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8C2F0F911E6FEC2500A8A008"
-            BuildableName = "CalendarDemo.app"
-            BlueprintName = "CalendarDemo"
-            ReferencedContainer = "container:CalendarDemo.xcodeproj">
+            BuildableName = "JSCalendar.app"
+            BlueprintName = "JSCalendar"
+            ReferencedContainer = "container:JSCalendar.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8C2F0F911E6FEC2500A8A008"
-            BuildableName = "CalendarDemo.app"
-            BlueprintName = "CalendarDemo"
-            ReferencedContainer = "container:CalendarDemo.xcodeproj">
+            BuildableName = "JSCalendar.app"
+            BlueprintName = "JSCalendar"
+            ReferencedContainer = "container:JSCalendar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8C2F0F911E6FEC2500A8A008"
-            BuildableName = "CalendarDemo.app"
-            BlueprintName = "CalendarDemo"
-            ReferencedContainer = "container:CalendarDemo.xcodeproj">
+            BuildableName = "JSCalendar.app"
+            BlueprintName = "JSCalendar"
+            ReferencedContainer = "container:JSCalendar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
